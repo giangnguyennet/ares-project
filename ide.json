@@ -30,15 +30,16 @@
 				"appKey": "",
 				"appSecret": ""
 			},
-			"Xproxy":{
+			"mySuperproxy":{
 				"http":{
 					"tunnel":"OverHttp",
-					"host":"web-proxy.corp.hp.com",
+					"host":"web-proxy.corp.dell.com",
 					"port":8080
+					this is a syntax error
 				},
 				"https":{
 					"tunnel":"OverHttp",
-					"host":"web-proxy.corp.hp.com",
+					"host":"web-proxy.corp.ibm.com",
 					"port":8080
 				}
 			},
